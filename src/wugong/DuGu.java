@@ -7,5 +7,7 @@ public class DuGu {
 		System.out.println("111111111");
 		System.out.println("ÒªÁ·´Ë¹¦...");
 		System.out.println("xxxxxx");
+		System.out.println("yyyyyyy");
+		
 	}
 }
